@@ -1,5 +1,5 @@
 - Computer Engineer (PhD) focused on ML and Security.
-- Machine Learning Models with an emphasis on system security/reliability/robustness
+- Machine Learning models with an emphasis on system security/reliability/robustness
 <p align="center">
   <a href="https://skillicons.dev">
     <img
