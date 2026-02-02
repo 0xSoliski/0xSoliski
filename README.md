@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**0xSoliski/0xSoliski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Computer Engineer (PhD) focused on ML and Security.
+- Machine Learning Models with an emphasis on system security/reliability/robustness
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=cpp,cloudflare,git,latex,linux,raspberrypi,vscode,tensorflow,pytorch,py,anaconda&theme=light&perline=11"
+      height="64"
+    />
+  </a>
+</p>
